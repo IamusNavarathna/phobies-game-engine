@@ -1,0 +1,6 @@
+[submodule "vendors/sdlpp"]
+	path = vendors/sdlpp
+	url = https://github.com/hduprat/sdlpp.git
+[submodule "vendors/boost"]
+	path = vendors/boost
+	url = https://github.com/ryppl/boost-svn
